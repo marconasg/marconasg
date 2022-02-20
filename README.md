@@ -7,6 +7,7 @@ My name is Marco and I'm currently dedicating my studies to Data Science. I'm fr
 🛠️ __Tools:__ VS Code, Git, GitHub, Notion
 
 Know more about me or contact me at:
+
 <a href="https://www.linkedin.com/in/marconasg/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-01402E?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&link=https://www.linkedin.com/in/marconasg/"/>
 </a>
