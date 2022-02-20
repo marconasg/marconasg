@@ -6,7 +6,7 @@ My name is Marco and I'm currently dedicating my studies to Data Science. I'm fr
 
 🛠️ __Tools:__ VS Code, Git, GitHub, Notion
 
-### Here you can follow my study roadmap
+### Here you can follow my study roadmap ⬇️
 - [x] Python
 - [ ] Python for Data Science
 - [ ] Introduction to SQL
