@@ -27,7 +27,7 @@ Let's have a chat:
 ### Here you can follow my study roadmap ⬇️
 - [x] Python
 - [ ] Python for Data Science
-- [ ] Introduction to SQL
+- [x] Introduction to SQL
 - [ ] Intro to Descriptive Statistics
 - [ ] Intro to Inferential Statistics
 - [ ] Introduction to Machine Learning
