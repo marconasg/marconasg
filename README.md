@@ -2,7 +2,7 @@
 
 My name is Marco and I'm currently dedicating my studies to Data Science. I'm from Brazil, living in Curitiba.
 
-⚡ __Skills:__ Python, Data Visualization, Storytelling, Google Data Studio
+⚡ __Skills:__ Python, SQL, Data Visualization, Storytelling, Google Data Studio
 
 🛠️ __Tools:__ VS Code, Git, GitHub, Notion
 
