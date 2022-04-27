@@ -28,6 +28,8 @@ Let's have a chat:
 - [x] Python
 - [x] Python for Data Science
 - [x] Introduction to SQL
+- [ ] SQL for Data Analysis
+- [ ] Python for Data Analysis
 - [ ] Intro to Descriptive Statistics
 - [ ] Intro to Inferential Statistics
 - [ ] Introduction to Machine Learning
