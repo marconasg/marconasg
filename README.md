@@ -4,7 +4,7 @@ My name is Marco and I'm currently dedicating my studies to Data Science. I'm fr
 
 ⚡ __Skills:__ Python, SQL, Data Visualization, Storytelling, Google Data Studio
 
-🛠️ __Tools:__ VS Code, Git, GitHub, Notion
+🛠️ __Tools:__ VS Code, Jupyter Notebook, Git, GitHub, Notion
 
 <br/>
 
