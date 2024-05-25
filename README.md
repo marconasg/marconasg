@@ -2,7 +2,7 @@
 
 My name is Marco and I'm currently engaged in a postgraduate degree in Data Science and Big Data. I'm from Brazil, living in Curitiba.
 
-⚡ __Skills:__ Python, SQL, R, Power BI, Data Visualization, Data Storytelling
+⚡ __Skills:__ Python, SQL, R, Power BI, Data Analysis, Data Visualization, Data Storytelling, Descriptive Statistics
 
 🛠️ __Tools:__ Databricks, VS Code, Metabase, Jupyter Notebook, Git, GitHub, Notion
 
